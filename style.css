@@ -124,21 +124,22 @@
     }
 
     #html {
-      left: 15px;
+      left: 19px;
       font-size: 14px;
     }
 
     #css {
-      left: 120px;
+      left: 124px;
       font-size: 14px;
     }
 
     #imagenes {
-      left: 205px;
+      left: 209px;
       font-size: 14px;
     }
 
     #etiquetas {
-      left: 340px;
+      left: 344px;
+      font-size: 14px;
     }
   }
