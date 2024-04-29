@@ -1,6 +1,4 @@
   #texto-superpuesto {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: bold;
     position: absolute;
     top: 300px;
     left: 140px;
@@ -15,7 +13,6 @@
     color: white;
     background-color: transparent;
     border: none;
-    border-radius: 5px;
     padding: 5px;
     top: 30px;
     left: 1200px;
@@ -40,6 +37,8 @@
     padding: 0;
     background-color:black;
     overflow: hidden;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
   }
 
   video {
@@ -49,6 +48,62 @@
     margin-right: 0px;
     margin-left: 0px;
     border-radius: 10px;
+  }
+
+  #html {
+    position: absolute;
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 5px;
+    top: 30px;
+    left: 240px;
+    cursor: pointer;
+    z-index: 1;
+    text-decoration: none;
+  }
+
+  #css {
+    position: absolute;
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 5px;
+    top: 30px;
+    left: 440px;
+    text-decoration: none;
+    cursor: pointer;
+    z-index: 1;
+  }
+
+  #imagenes {
+    position: absolute;
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 5px;
+    top: 30px;
+    left: 640px;
+    text-decoration: none;
+    cursor: pointer;
+    z-index: 1;
+  }
+
+  #etiquetas {
+    position: absolute;
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 5px;
+    top: 30px;
+    left: 900px;
+    text-decoration: none;
+    cursor: pointer;
+    z-index: 1;
   }
 
   @media only screen and (max-width: 600px) {
