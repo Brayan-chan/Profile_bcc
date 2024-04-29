@@ -53,8 +53,8 @@
 
   @media only screen and (max-width: 600px) {
     video {
-      width: 420px;
-      height: 800px;
+      width: 430px;
+      height: 840px;
     }
 
     #texto-superpuesto {
@@ -63,7 +63,7 @@
     }
 
     #fullscreen-button {
-      top: 240px;
+      top: 270px;
       left: 360px;
     }
   }
