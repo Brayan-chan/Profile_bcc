@@ -122,4 +122,23 @@
       top: 315px;
       left: 370px;
     }
+
+    #html {
+      left: 15px;
+      font-size: 14px;
+    }
+
+    #css {
+      left: 102px;
+      font-size: 14px;
+    }
+
+    #imagenes {
+      left: 169px;
+      font-size: 14px;
+    }
+
+    #etiquetas {
+      left: 290px;
+    }
   }
