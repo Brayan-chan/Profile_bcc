@@ -53,8 +53,8 @@
 
   @media only screen and (max-width: 600px) {
     video {
-      width: 386px;
-      height: 655px;
+      width: 400px;
+      height: 700px;
     }
 
     #texto-superpuesto {
